@@ -5,6 +5,7 @@
   "author": "Kristof Dreier <zokdreie@zeiss.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
+    "coffee-script": "^1.12.6",
     "hubot": "^2.19.0",
     "hubot-azure-scripts": "^0.1.7",
     "hubot-diagnostics": "0.0.1",
